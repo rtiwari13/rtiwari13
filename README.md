@@ -1,7 +1,5 @@
-<div id="header" align="center">
- <img src="<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>">
+<div>
+ <img src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 - 👋 Hi, I’m @rtiwari13
 - 🌱 I’m currently learning 
